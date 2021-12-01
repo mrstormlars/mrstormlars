@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mrstorm
+- 👀 I’m interested in all sorts of technology, especially DLT/blockchain and AI. 
+- 🌱 I’m currently learning Python and Solidity (EVM).
+- 💞️ I’m looking to collaborate on anything within the DLT space (preferably Iota).
+- 📫 How to reach me: e-mail: mrstorm.eth@gmail.com or DM on Twitter: @MrStormLars
